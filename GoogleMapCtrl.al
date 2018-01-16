@@ -1,7 +1,7 @@
 controladdin GoogleMapCtrl
 {
     Scripts = 
-        'https://maps.googleapis.com/maps/api/js?key=AIzaSyBKB_wkb3d017rM0dv2O6r3zpCrmNdPerE',
+        'https://maps.googleapis.com/maps/api/js?key=AIzaSyA78njShqoxy5KfECuCkXl9wrBCT8aujn8',
         'scripts/googlemap.js';
     StartupScript = 'scripts/start.js';
     
